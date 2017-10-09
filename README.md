@@ -5,6 +5,10 @@ CSCI 1111 class I am taking.
 Everything in the `.c` and `.h` files along with the Makefiles were written by
 me.
 
+## Where's Assignments 1 & 2 and Exercise 1?
+Those were are extremely simple and contained a lot of personal information.
+There's no need for them to be available in this repository.
+
 ## Contributing
 Feel free to contribute if you like by submitting a pull request. Please try to
 be uniform with my coding and indentation style.
