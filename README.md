@@ -14,7 +14,7 @@ Feel free to contribute if you like by submitting a pull request. Please try to
 be uniform with my coding and indentation style.
 
 ## License
-All source files are public domain unless stated otherwise. See `UNLICENSE` for
+All source files are public domain unless stated otherwise. See `LICENSE` for
 more information.
 
 All the files named `description.txt` were written by my instructor and should
