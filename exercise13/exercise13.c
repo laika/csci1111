@@ -15,7 +15,7 @@ int main() {
   float fl = 22.5;
   printf("Initial value: %.2f\n", fl);
   doubler(&fl);
-  printf("New Value: %.2f\n", fl);
+  printf("New value: %.2f\n", fl);
 
   return 0;
 }
