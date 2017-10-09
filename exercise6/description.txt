@@ -1,0 +1,4 @@
+Exercise #6:
+------------
+- Modify an example to produce 5 random years
+  in the current decade (2010-2019.)

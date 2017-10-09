@@ -1,0 +1,7 @@
+Exercise #2:
+-----------
+- Modify the scan.c example from my notes so that it
+  reads in a double and a long instead of a float and
+  an int. Also, initialize the two variables so that
+  they do not contain "junk" at the beginning of the
+  program.

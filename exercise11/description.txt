@@ -1,0 +1,10 @@
+Exercise #11:
+-------------
+- Write a function cardValue() that is passed
+  a single integer parameter representing a
+  playing card (0-51) and returns the card's
+  value in the game of BlackJack.
+               2-10: value is 2-10
+    Jack/Queen/King: value is 10
+                Ace: value is 11 or 1
+                     (Ignore 1 for now.) 

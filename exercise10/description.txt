@@ -1,0 +1,18 @@
+Exercise #10:
+------------
+Modify the cards2.c program to print the
+suit and the face value for each card that is displayed.
+
+Notes:
+       - The cards2.c already indicates a suit and a
+         unique value for each card
+       - Look at Cards3.c and Cards4.c to see the
+         type of output we are looking for (No face
+         values are displayed.)
+       - You should be able to write a little bit
+         of code of your own for cards2.c to print
+         like cards3 and cards4, and also print the
+         face value; without doing exactly what cards3
+         and cards4 do.
+
+         Hint: Use some conditional statements

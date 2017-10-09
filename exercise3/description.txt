@@ -1,0 +1,6 @@
+Exercise #3:
+-----------
+- Write a program to compute the volume of a cylinder.
+  Make the result be a floating-point result.
+  Choose integer or floating-point for the radius and height.
+  Volume is pi times radius squared times height.

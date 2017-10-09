@@ -1,0 +1,9 @@
+Exercise #9:
+------------
+Write a short program that reads the Standard Input
+until EOF and converts all alphabetic characters to
+uppercase.
+Notes:
+       - Don't convert non-alpha characters
+       - You only need to convert lowercase
+         characters

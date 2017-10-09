@@ -1,0 +1,13 @@
+Exercise #7:
+------------
+- Write a program that reads the length and width of a
+  rectangle, and then computes the area of the rectangle.
+  Print a label/message that identifies it as the area
+  of a rectangle, or as the area of a square (if the
+  length and width are equal.)
+  {Note: Remember the difference between equality '=='
+         and assignment '='.
+         - See what happens if you use '=' instead of
+           '=='.
+         - Use -Wall to see that the compiler warns you
+           when using '=' in a boolean/test context.   } 

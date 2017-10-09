@@ -1,0 +1,15 @@
+Exercise #4:
+-----------
+- Write a program that reads in and then displays a person's name.
+  - Read the first and last name and middle initial and then use
+    strcpy and strcat to build output strings.
+    - Display the name as "First Initial. Last"
+    - And also as "Last, First Initial"
+
+    Ex:
+         Enter first name: John
+         Enter last  name: Doe
+         Enter middle initial: H
+
+         Name: John H. Doe
+         Name: Doe, John H.

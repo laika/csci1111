@@ -1,0 +1,6 @@
+Exercise #8:
+-----------
+- Modify the example from class to also find
+  the largest negative and largest positive number
+- Modify the example to also find the smallest
+  negative and smallest positive number

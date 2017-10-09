@@ -1,0 +1,7 @@
+Exercise #5:
+-----------
+- In a single program write two loops:
+  - A while loop that prints the multiples of 5, from 100
+    down to and including 5.
+  - A second version that is a for loop.
+ {One program, two loops, no input.}
