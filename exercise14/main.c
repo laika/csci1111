@@ -9,7 +9,6 @@
  * Spread the source code across 3 files.
  */
 
-
 #include <stdio.h>
 #include "doubler.h"
 

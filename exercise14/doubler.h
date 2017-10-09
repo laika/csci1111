@@ -9,5 +9,4 @@
  * Spread the source code across 3 files.
  */
 
-
 void doubler(float*);
