@@ -18,4 +18,4 @@ All source files are public domain unless stated otherwise. See `LICENSE` for
 more information.
 
 All the files named `description.txt` were written by my instructor and should
-be assumed to **not be public domain**.
+be assumed to his intellectual property and therefore **not public domain**. 
