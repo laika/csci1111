@@ -1,8 +1,8 @@
 # Assignments and Exercises from CSCI 1111
-This repository is a collection of assignments and exercises (labs) from my CSCI
-1111 class.
+This repository is a collection of assignments and exercises (labs) from the
+CSCI 1111 class I am taking.
 
-Everything in the `.c` and `.h` files along with the makefiles were written by
+Everything in the `.c` and `.h` files along with the Makefiles were written by
 me.
 
 ## Contributing
