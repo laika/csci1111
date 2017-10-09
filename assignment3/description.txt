@@ -1,0 +1,57 @@
+Assignment 3:                Given: 08/31/17     Due: 09/08/17
+------------                                  Points: 10
+Purpose: Do some computations.
+
+Description:
+
+Create a C program that reads in three integer values
+representing the height, depth and width of a rectangular
+prism/box/cube. Compute the following results using those three
+values:
+
+        Areas:
+          - Surface area of the top
+          - Surface area of the front face
+          - Surface area of an end
+          - Surface area of the entire prism
+
+        Perimeters:
+          - of the bottom
+          - of the front face
+          - of an end
+
+        Volume:
+          - of the prism
+
+        Chord:
+          - diagonal distance across the prism. That is: the
+            single chord that crosses the prism from
+            left-to-right, top-to-bottom, and front-to-back.
+
+Notes:
+-----
+- Before coding:
+  - Be sure you understand the problem
+  - Draw a picture and label it
+  - Figure out the formulas/computations for each of the
+    values to be computed
+  - Create an "answer key" with at least three different sets
+    of input values, and the correct solutions, that you can
+    use to verify that your program is working properly
+- Read the three integer input values in the order they were
+  first mentioned above: height, depth, width.
+- Print the results in the order listed above.
+
+- Do as much integer math as possible. (Since the inputs are
+  integers, almost all the results will also be integers.)
+
+- Nicely format and label your output.
+
+- Gradually develop your program in steps:
+    - Read in your inputs and print them out to confirm
+      you are reading them in correctly
+    - Compute just one of the computed values
+    - Use your "answer key" to check your work
+    - Add additional computations one at a time
+    - Use your "answer key" to check your work
+    - Ask about any of the math you are not sure of
