@@ -1,0 +1,24 @@
+Exercise #15:
+------------
+- Modify the example sort1.c to store and
+  sort an array floating-point values. Then
+  modify it to sort into ascending order.
+  Generate the values to be sorted using
+  rand( ).
+
+  Notes:
+    - Do it in careful, minimal steps:
+      - Steps:
+        - convert the data to be sorted to
+          floating-point
+        - change the sort order to
+          ascending
+        - figure out how to generate a
+          random sequence of floating-point
+          values using rand()
+    - Not all data and variables will need to change,
+      counts and indexes are integers regardless of
+      the type of data in the array
+    - If you get stuck, retreat to the original
+      example and try the part that is causing you
+      trouble, or just start over.

@@ -1,0 +1,4 @@
+Exercise #16:
+------------
+- code a loop that processes a string and converts
+  all alphabetic characters to upper case.
