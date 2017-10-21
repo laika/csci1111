@@ -1,0 +1,7 @@
+  Exercise #17:
+  ------------
+  - Make a 2-D array to represent a Tic-Tac-Toe
+    game/grid. Place a couple of 'X's and 'O's 
+    in the grid and display it.
+    - Use the mArray1.c - mArray6.c examples in 
+      the Supplement.pdf file as a guide.
