@@ -10,7 +10,7 @@ Those were are extremely simple and contained a lot of personal information.
 There's no need for them to be available in this repository.
 
 ## Contributing
-Feel free to contribute if you like by submitting a pull request. Please try to
+Feel free to contribute if you like by submitting a pull request. Please
 be uniform with my coding and indentation style.
 
 ## License
